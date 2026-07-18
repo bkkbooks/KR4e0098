@@ -1370,6 +1370,7 @@ markers:
       ', id: KR4e0098_krp_010-bkkkrnewl297}
   - {type: line-break, offset: 5354, content: '', id: KR4e0098_WYG_010-17b02}
   - {type: punctuation, offset: 5355, content: (, id: KR4e0098_krp_010-bkkpn1}
+  - {type: voice, offset: 5355, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 5356, content: /, id: KR4e0098_krp_010-bkkpn2}
   - {type: punctuation, offset: 5356, content: ), id: KR4e0098_krp_010-bkkpn3}
   - {type: indent, offset: 5356, content: 　　, id: KR4e0098_krp_010-bkkind12}
@@ -2471,6 +2472,7 @@ markers:
       ', id: KR4e0098_krp_010-bkkkrnewl543}
   - {type: line-break, offset: 9700, content: '', id: KR4e0098_WYG_010-31a05}
   - {type: punctuation, offset: 9700, content: (, id: KR4e0098_krp_010-bkkpn4}
+  - {type: voice, offset: 9700, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 9701, content: /, id: KR4e0098_krp_010-bkkpn5}
   - {type: punctuation, offset: 9701, content: ), id: KR4e0098_krp_010-bkkpn6}
   - {type: indent, offset: 9701, content: 　, id: KR4e0098_krp_010-bkkind21}
@@ -5633,6 +5635,7 @@ markers:
   - {type: line-break, offset: 22060, content: '', id: KR4e0098_WYG_010-69b06}
   - {type: substitution, offset: 22065, original: 諮, replacement: 咨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20401}}
   - {type: punctuation, offset: 22072, content: (, id: KR4e0098_krp_010-bkkpn7}
+  - {type: voice, offset: 22072, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 22073, content: /, id: KR4e0098_krp_010-bkkpn8}
   - {type: punctuation, offset: 22073, content: ), id: KR4e0098_krp_010-bkkpn9}
   - {type: 'kr:newline', offset: 22083, content: '
@@ -5736,4 +5739,4 @@ markers:
 
       ', id: KR4e0098_krp_010-bkkkrnewl1258}
   back: []
-hash: sha256:d66d68d534b9239c1cc8f84dbf4b5a5b9fddc75d4ad964fe1ad668bd604a411b
+hash: sha256:9f396d71bfff39f6119c45795c21c72cd04396adef0714fd731caf20230cf8db
